@@ -1,0 +1,1 @@
+{"name":"okc-cuda-build","compatibilityDate":"2026-10-01","env":{"Sandbox":{"type":"durable-object","worker":"okc-cuda-build","exportName":"Sandbox"},"BUILD_TOKEN":{"type":"secret"}},"exports":{"Sandbox":{"type":"durable-object","storage":"sqlite","container":"okc-cuda-build"}},"manifest":{"type":"partial","mainModule":"index.js","modules":{}}}

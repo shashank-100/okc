@@ -1,0 +1,13 @@
+{
+  "name": "okc-cuda-build",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@cloudflare/sandbox": "0.12.14"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^2.0.0-beta.v.4",
+    "cf": "^1.0.0-beta.13",
+    "vite": "^8.3.5"
+  }
+}
